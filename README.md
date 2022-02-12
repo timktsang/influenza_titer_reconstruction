@@ -10,4 +10,4 @@ please see readme_inference.txt for instruction for using the program.
 
 [Figure_table_code.zip] contains all codes to replicate the tables/figures in the manuscript.
 
-[simulation_result.zip] contains all results of simulation
+[simulation_result.zip] part1 and part2 contains all results of simulation
